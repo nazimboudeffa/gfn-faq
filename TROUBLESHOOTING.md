@@ -8,6 +8,6 @@ Genrally speaking, the problem is YOUR CONNEXION
 
 So, a general troobleshooting is to start by checking the hardware
 
-1. to restart your router (turn it off then wait 10 sec before restarting)
-2. to resintall your GFN client
-3. to reboot your computer
+1. Restart your router (turn it off then wait 10 sec before restarting)
+2. Resintall your GFN client
+3. Reboot your computer
