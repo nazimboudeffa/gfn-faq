@@ -16,4 +16,4 @@ Can I use a VPN
 How to fix FPS drop
 ---
 
-- TODO
+- [troubleshooting-fps-drops.md](Troobleshouting FPS Drops)
