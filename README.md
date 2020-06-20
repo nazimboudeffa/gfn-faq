@@ -1,6 +1,6 @@
 # GeForceNow FAQ
 
-First of all, any kind of exploitation is not permitted for example playing GTA5 knowing that it's not in the list of games, so let's go
+First of all, any kind of exploitation is not permitted for example playing GTA5 knowing that it's not in the list of games, so let's go on this FAQ to let you have the best gaming experience on the GeForce Now cloud service
 
 Can I come and talk about exploitation
 ---
