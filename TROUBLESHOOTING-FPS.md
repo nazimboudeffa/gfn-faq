@@ -4,3 +4,13 @@ Turn down settings
 
 Restart your session, you can get another roll on the rig table
 
+## Discussion
+
+I'll be lucky if I restart but how much luck I have
+
+you are not 'lucky', in 2/3 restarts you usally have the right rig for the game and for some exceptional games + rtx on games, the 2080 rigs are the best
+
+note that 1080c does not use a gtx 1080 and a 2080c rig also does not use a 2080/ti.
+
+they just named them like that, all gfn rigs have server cpu's and server gpu's like xeon and tesla p40's - T-8/10
+
