@@ -1,5 +1,7 @@
 # GeForceNow FAQ
 
+First of all, any kind of exploitation is not permitted for example playing GTA5 knowing that it's not in the list of games
+
 Can I use a VPN
 ---
 
