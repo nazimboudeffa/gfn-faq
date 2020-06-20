@@ -6,7 +6,7 @@ Let's start with the main screen that concern the troubleshooting, it's the sett
 
 Genrally speaking, the problem is YOUR CONNEXION
 
-So, general troobleshooting is 
+So, a general troobleshooting is 
 
 1. to restart your router (turn it off then wait 10 sec before restarting)
 2. to resintall your GFN client
