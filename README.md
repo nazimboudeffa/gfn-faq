@@ -13,7 +13,8 @@ Can I use a VPN
 
 - NO, it's fine to use alternative servers so long as you are in supported regions, but it's not okay to use a VPN to buy Founders outside of your region
 
-How to fix FPS drop
+Troubleshooting your Client
 ---
 
-- [troubleshooting-fps-drops.md](Troobleshouting FPS Drops)
+- ![troubleshooting.md](General method for Troubleshouting)
+- ![troubleshooting-fps-drop.md](Troobleshouting FPS Drop)
