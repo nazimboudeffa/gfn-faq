@@ -17,4 +17,4 @@ Troubleshooting your Client
 ---
 
 - [General method for Troubleshouting](TROUBLESHOOTING.md)
-- [Troobleshouting FPS Drop](troubleshooting-fps-drop.md)
+- [Troobleshouting FPS Drop](TROUBLESHOOTING-FPS.md)
