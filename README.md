@@ -16,5 +16,5 @@ Can I use a VPN
 Troubleshooting your Client
 ---
 
-- ![troubleshooting.md](General method for Troubleshouting)
-- ![troubleshooting-fps-drop.md](Troobleshouting FPS Drop)
+- [General method for Troubleshouting](troubleshooting.md)
+- [Troobleshouting FPS Drop](troubleshooting-fps-drop.md)
