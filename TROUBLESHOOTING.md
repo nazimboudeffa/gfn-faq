@@ -4,7 +4,7 @@ Let's start with the main screen that concern the troubleshooting, it's the sett
 
 ![SETTINGS](settings.png)
 
-Genrally speaking, the problem is YOUR CONNEXION
+Genrally speaking, as GFN is a cloud service, the problem is YOUR CONNEXION
 
 So, a general troobleshooting is to start by checking the hardware
 
