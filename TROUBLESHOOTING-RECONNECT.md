@@ -2,6 +2,6 @@
 
 ![Reconnect](reconnect.jpg)
 
-- Downgrade your settings like in streaming-quality.png
+- Downgrade your settings by accessing the menu like in [streaming-quality.png](streaming-quality.png)
 
 Try custom settings, for example 25 mbps bitrate, 1080p60 and adjust to poor On Vsync off
