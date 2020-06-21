@@ -14,7 +14,7 @@ Can I use a VPN
 
 NO, it's fine to use alternative servers so long as you are in supported regions, but it's not okay to use a VPN to buy Founders outside of your region
 
-how long will the  founders editon be avavible for purchase
+How long will the  founders editon be avavible for purchase
 ---
 
 untill its out of stock and it depends on how much people buy it and how much stock they have
