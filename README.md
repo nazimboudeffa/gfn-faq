@@ -22,6 +22,6 @@ untill its out of stock and it depends on how much people buy it and how much st
 Troubleshooting your Client
 ---
 
-- [General method for Troubleshooting](TROUBLESHOOTING.md)
+- [Troubleshooting. A General method](TROUBLESHOOTING.md)
 - [Troubleshooting FPS Drop](TROUBLESHOOTING-FPS.md)
 - [Troubleshooting Reconnect](TROUBLESHOOTING-RECONNECT.md)
