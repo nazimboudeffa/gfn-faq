@@ -24,6 +24,8 @@ Why when I launch my game it doesn't fit my screen
 
 gfn doesnt save graphic settings in major part of games so you have to change the display each restart
 
+[screenshot](Watch_Dogs.png)
+
 Troubleshooting your Client
 ---
 
