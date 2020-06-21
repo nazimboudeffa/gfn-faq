@@ -19,6 +19,11 @@ How long will the  founders editon be avavible for purchase
 
 untill its out of stock and it depends on how much people buy it and how much stock they have
 
+Why when I launch my game it doesn't fit my screen
+---
+
+gfn doesnt save graphic settings in major part of games so you have to change the display each restart
+
 Troubleshooting your Client
 ---
 
