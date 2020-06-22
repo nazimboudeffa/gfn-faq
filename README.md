@@ -26,8 +26,12 @@ gfn doesnt save graphic settings in major part of games so you have to change th
 
 [screenshot](Watch_Dogs.png)
 
-Troubleshooting your Client
+What is the waiting time ?
 ---
+
+TODO
+
+# Troubleshooting your Client
 
 - [Troubleshooting. A General method](TROUBLESHOOTING.md)
 - [Troubleshooting FPS Drop](TROUBLESHOOTING-FPS.md)
