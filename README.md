@@ -33,6 +33,11 @@ What is the waiting time
 
 TODO
 
+What is the rig am using
+---
+
+Tape CTRL ALT F6
+
 # Troubleshooting your Client
 
 - [Troubleshooting. A General method](TROUBLESHOOTING.md)
