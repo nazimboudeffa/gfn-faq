@@ -36,7 +36,7 @@ TODO
 What is the rig am using
 ---
 
-Tape CTRL ALT F6
+Tape CTRL ALT F6 [SOURCE](https://nvidia.custhelp.com/app/answers/detail/a_id/4480/~/how-can-i-access-advanced-network-streaming-stats-for-geforce-now-for-pc-and)
 
 # Troubleshooting your Client
 
