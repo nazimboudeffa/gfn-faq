@@ -26,7 +26,7 @@ gfn doesnt save graphic settings in major part of games so you have to change th
 
 [screenshot](Watch_Dogs.png)
 
-What is the waiting time ?
+What is the waiting time
 ---
 
 TODO
