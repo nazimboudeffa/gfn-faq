@@ -10,6 +10,14 @@ Restart your session, you can get another roll on the rig table
 
 ## Discussion
 
+About the settings, what do you have ?
+
+To personalise your Resolution from FullHD to HD and FPS from 60 to 30 then vSync OFF
+
+or click on the poor network button
+
+About the new session
+
 I'll be lucky if I restart but how much luck I have
 
 you are not 'lucky', in 2/3 restarts you usally have the right rig for the game and for some exceptional games + rtx on games, the 2080 rigs are the best
