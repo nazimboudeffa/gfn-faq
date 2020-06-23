@@ -1,6 +1,10 @@
 # Troubleshooting FPS Drop
 
-Turn down settings
+Check your speedtest otherwise it's the ISP
+
+Check the GFN Telemetry and let it on auto
+
+If nothing works turn down your settings
 
 Restart your session, you can get another roll on the rig table
 
