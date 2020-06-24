@@ -43,6 +43,14 @@ Is there a One Session list of games
 
 Yes there is the [official one](http://gfngames.tk) and the [HIDDEN](https://www.reddit.com/r/GeForceNOW/comments/ha3yir/hidden_supported_games/) (*joking only*)
 
+What is FPS
+---
+
+think of it like this
+if your hdmi cable can only deliver 60 fps
+even if your graphics card renders a game at 500
+u will only get 60 frames per sec on your screen
+
 # Troubleshooting your Client
 
 - [Troubleshooting. A General method](TROUBLESHOOTING.md)
