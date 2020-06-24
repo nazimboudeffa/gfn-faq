@@ -48,3 +48,7 @@ Yes there is the [official one](http://gfngames.tk) and the [HIDDEN](https://www
 - [Troubleshooting. A General method](TROUBLESHOOTING.md)
 - [Troubleshooting FPS Drop](TROUBLESHOOTING-FPS.md)
 - [Troubleshooting Reconnect](TROUBLESHOOTING-RECONNECT.md)
+
+# SCREENSHOTS
+
+- CTRL ALT F6 https://imgur.com/a/Fd6zRnB
