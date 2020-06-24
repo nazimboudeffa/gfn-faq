@@ -52,3 +52,6 @@ Yes there is the [official one](http://gfngames.tk) and the [HIDDEN](https://www
 # SCREENSHOTS
 
 - CTRL ALT F6 https://imgur.com/a/Fd6zRnB
+- RECOMMANDED RAM SIZE imo https://imgur.com/a/0i13Y0H
+- RTX ON/OFF https://imgur.com/a/9yflV7Y
+- Change the settings https://imgur.com/a/MQdFomx
