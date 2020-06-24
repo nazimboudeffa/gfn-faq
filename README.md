@@ -38,6 +38,11 @@ What is the rig am using
 
 Tape CTRL ALT F6 [SOURCE](https://nvidia.custhelp.com/app/answers/detail/a_id/4480/~/how-can-i-access-advanced-network-streaming-stats-for-geforce-now-for-pc-and)
 
+Is there a One Session list of games
+---
+
+Yes there is the [official one](gfngames.tk) and the [HIDDEN](https://www.reddit.com/r/GeForceNOW/comments/ha3yir/hidden_supported_games/)
+
 # Troubleshooting your Client
 
 - [Troubleshooting. A General method](TROUBLESHOOTING.md)
