@@ -50,6 +50,7 @@ think of it like this
 if your hdmi cable can only deliver 60 fps
 even if your graphics card renders a game at 500
 u will only get 60 frames per sec on your screen
+[WHY](https://retromatrix.tumblr.com/post/621312578684157952/590-fps-while-streaming-on-steam)
 
 # Troubleshooting your Client
 
