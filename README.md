@@ -41,7 +41,7 @@ Tape CTRL ALT F6 [SOURCE](https://nvidia.custhelp.com/app/answers/detail/a_id/44
 Is there a One Session list of games
 ---
 
-Yes there is the [official one](gfngames.tk) and the [HIDDEN](https://www.reddit.com/r/GeForceNOW/comments/ha3yir/hidden_supported_games/)
+Yes there is the [official one](http://gfngames.tk) and the [HIDDEN](https://www.reddit.com/r/GeForceNOW/comments/ha3yir/hidden_supported_games/) *joking*
 
 # Troubleshooting your Client
 
