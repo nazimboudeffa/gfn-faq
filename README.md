@@ -2,7 +2,7 @@
 
 First of all, any kind of exploitation is not permitted for example playing GTA5 knowing that it's not in the list of games, maybe the rules will change later but actually they are stated like what you read here
 
-The official FAQ is here https://www.reddit.com/r/GeForceNOW/wiki/index
+The official community FAQ is here https://www.reddit.com/r/GeForceNOW/wiki/index
 
 So let's go on this FAQ to let you have the best gaming experience on the GeForce Now cloud service
 
