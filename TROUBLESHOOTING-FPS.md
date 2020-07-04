@@ -2,7 +2,7 @@
 
 Check your speedtest otherwise it's the ISP
 
-Check the GFN Telemetry and let it on auto
+Check the GFN Telemetry and let it on auto otherwise put it on 10Mbps
 
 If nothing works turn down your settings
 
