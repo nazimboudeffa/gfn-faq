@@ -58,7 +58,7 @@ Why my ping is smaller then speedtest
 ---
 speedtest in GFN measures and pings the speed to your chosen GFN location. A regular speedtest pings ur nearest server which is totally not the same as gfn
 
-The bandwidth of the ping to the NVidia Grid near your location while speedtest uses other servers or their own
+GFN mesures the bandwidth of the ping to the NVidia Grid near your location while speedtest uses other servers or their own
 
 # Troubleshooting your Client
 
