@@ -54,6 +54,12 @@ even if your graphics card renders a game at 500
 u will only get 60 frames per sec on your screen
 [WHY](https://retromatrix.tumblr.com/post/621312578684157952/590-fps-while-streaming-on-steam)
 
+Why my ping is smaller then speedtest
+---
+speedtest in GFN measures and pings the speed to your chosen GFN location. A regular speedtest pings ur nearest server which is totally not the same as gfn
+
+The bandwidth of the ping to the NVidia Grid near your location while speedtest uses other servers or their own
+
 # Troubleshooting your Client
 
 - [Troubleshooting. A General method](TROUBLESHOOTING.md)
