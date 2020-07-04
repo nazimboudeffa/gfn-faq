@@ -4,7 +4,7 @@ Check your speedtest otherwise it's the ISP
 
 Check the GFN Telemetry and let it on auto otherwise put it on 10Mbps
 
-If nothing works turn down your other settings like 30 FPS and 1280x720 vSync OFF
+If nothing works turn down your other settings like 30 FPS and 1280x720 vSync OFF like this https://www.youtube.com/watch?v=RpuDrYvRnB4
 
 Restart your session, you can get another roll on the rig table
 
