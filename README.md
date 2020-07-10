@@ -60,6 +60,16 @@ speedtest in GFN (or GFN telemetry) measures and pings the speed to your chosen 
 
 GFN mesures the bandwidth of the ping to the NVidia Grid near your location while speedtest uses other servers or their own
 
+Why hackers want to exploit GFN
+---
+
+The actual reasons to exploit GFN are : 
+
+- classical motivations like : prooving to self that I can hack a big company, or demonstrate to friends that am the best in crashing FREE service (satirical)
+- Going from FREE to a PAID but for free means just haveing 6 hours
+- Mining bitcoins
+- Runing a navigator to download and run other softwares then only games
+
 # Troubleshooting your Client
 
 - [Troubleshooting. A General method](TROUBLESHOOTING.md)
