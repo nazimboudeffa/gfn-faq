@@ -13,6 +13,16 @@ NO, it's not okay to exploit a vulnerability to play what you want
 
 There are no bug bounty program for GFN at the moment
 
+Why exploiters want to exploit GFN
+---
+
+The actual reasons to exploit GFN are : 
+
+- classical motivations like : prooving to self that I can hack a big company, or demonstrate to friends that am the best in crashing FREE service (satirical)
+- Going from FREE to a PAID but for free means just haveing 6 hours
+- Mining bitcoins
+- Runing a navigator to download and run other softwares then only games
+
 Can I use a VPN
 ---
 
@@ -59,16 +69,6 @@ Why my ping is smaller then speedtest
 speedtest in GFN (or GFN telemetry) measures and pings the speed to your chosen GFN location. A regular speedtest pings ur nearest server which is totally not the same as gfn
 
 GFN mesures the bandwidth of the ping to the NVidia Grid near your location while speedtest uses other servers or their own
-
-Why hackers want to exploit GFN
----
-
-The actual reasons to exploit GFN are : 
-
-- classical motivations like : prooving to self that I can hack a big company, or demonstrate to friends that am the best in crashing FREE service (satirical)
-- Going from FREE to a PAID but for free means just haveing 6 hours
-- Mining bitcoins
-- Runing a navigator to download and run other softwares then only games
 
 # Troubleshooting your Client
 
