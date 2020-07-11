@@ -82,3 +82,7 @@ GFN mesures the bandwidth of the ping to the NVidia Grid near your location whil
 - RECOMMANDED RAM SIZE imo https://imgur.com/a/0i13Y0H
 - RTX ON/OFF https://imgur.com/a/9yflV7Y
 - Change the settings https://imgur.com/a/MQdFomx
+
+# Knowledge base
+
+https://nvidia.custhelp.com/app/answers/detail/a_id/4263/~/gamestream-error-codes
