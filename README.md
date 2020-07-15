@@ -86,3 +86,11 @@ GFN mesures the bandwidth of the ping to the NVidia Grid near your location whil
 # Knowledge base
 
 https://nvidia.custhelp.com/app/answers/detail/a_id/4263/~/gamestream-error-codes
+
+# Know Bugs
+
+Do this if anything: 
+
+1. Go to location for GeForce Now.
+2. Open GeForceNOWStreamer.json with Notepad.
+3. Change dx=11 to dx=9.
