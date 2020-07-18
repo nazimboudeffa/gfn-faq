@@ -89,7 +89,9 @@ https://nvidia.custhelp.com/app/answers/detail/a_id/4263/~/gamestream-error-code
 
 # Know Bugs
 
-Do this if anything: 
+The eta stays on less then a minute, so you have to restart the app
+
+Do this if nothing happens 
 
 1. Go to location for GeForce Now.
 2. Open GeForceNOWStreamer.json with Notepad.
