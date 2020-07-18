@@ -87,7 +87,7 @@ GFN mesures the bandwidth of the ping to the NVidia Grid near your location whil
 
 https://nvidia.custhelp.com/app/answers/detail/a_id/4263/~/gamestream-error-codes
 
-# Know Bugs
+# Known Bugs
 
 ## Less then a minute
 
