@@ -87,9 +87,9 @@ GFN mesures the bandwidth of the ping to the NVidia Grid near your location whil
 
 https://nvidia.custhelp.com/app/answers/detail/a_id/4263/~/gamestream-error-codes
 
-## Know Bugs
+# Know Bugs
 
-# Less then a minute
+## Less then a minute
 
 The eta stays on less then a minute, so you have to restart the app
 
