@@ -75,6 +75,7 @@ GFN mesures the bandwidth of the ping to the NVidia Grid near your location whil
 - [Troubleshooting. A General method](TROUBLESHOOTING.md)
 - [Troubleshooting FPS Drop](TROUBLESHOOTING-FPS.md)
 - [Troubleshooting Reconnect](TROUBLESHOOTING-RECONNECT.md)
+- [Troubleshooting Streaming over your network is not recomanded](TROUBLESHOOTING-OVER.md)
 
 # SCREENSHOTS
 
