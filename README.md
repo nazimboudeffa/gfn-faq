@@ -70,6 +70,16 @@ speedtest in GFN (or GFN telemetry) measures and pings the speed to your chosen 
 
 GFN mesures the bandwidth of the ping to the NVidia Grid near your location while speedtest uses other servers or their own
 
+Why i got a message on APEX
+---
+
+Too many computers ...
+
+origin has an issue that if you login to 5 different pc your account gets locked for 24 hours
+since gfn creates a pc each time after the 6th attempt your account will be locked
+Some say using 2fa will help, others say it doesnt
+
+
 # Troubleshooting your Client
 
 - [Troubleshooting. A General method](TROUBLESHOOTING.md)
