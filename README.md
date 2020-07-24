@@ -79,6 +79,10 @@ origin has an issue that if you login to 5 different pc your account gets locked
 since gfn creates a pc each time after the 6th attempt your account will be locked
 Some say using 2fa will help, others say it doesnt
 
+Best GFN Graphic Card
+---
+
+2080c
 
 # Troubleshooting your Client
 
