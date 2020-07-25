@@ -84,6 +84,8 @@ Best GFN Graphic Card
 
 2080c
 
+![CARDS](GeForce.png)
+
 # Troubleshooting your Client
 
 - [Troubleshooting. A General method](TROUBLESHOOTING.md)
